@@ -1,4 +1,3 @@
-Why i cannot add any line
-Today is my bday
-Awdiz
-Zuhaib bhai
+My 1st Readme file on Git
+Done with Dexter
+Sunday the morning time
