@@ -1,0 +1,23 @@
+{
+  "name": "devops---demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ItSpecialistDevOps/DevOps---Demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ItSpecialistDevOps/DevOps---Demo/issues"
+  },
+  "homepage": "https://github.com/ItSpecialistDevOps/DevOps---Demo#readme",
+  "description": "",
+  "dependencies": {
+    "node-geocoder": "^4.4.1"
+  }
+}
